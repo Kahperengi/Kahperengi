@@ -1,8 +1,16 @@
 ### Hi there 👋
 
- <p align="center"> 
-Tıklanma Sayısı<br>
- 
-  <img src="https://profile-counter.glitch.me/ravgar/count.svg" />
-</p>
-
+```js
+class lenzy {
+    constructor(options) {
+        this.name = "lenzy",
+        this.sex = "man",
+        this.length = "178",
+        this.job = "developer",
+        this.weight = "68",
+        this.age = "17",
+        this.discord.tag = "🜍 Lénzy?#1337"
+    };
+}
+module.exports = lenzy
+```
