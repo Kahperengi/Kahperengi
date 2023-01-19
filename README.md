@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Typing
+SVG](https://readme-typing-svg.herokuapp.com/?lines=Selam+Lenzy+Seni+Görünce+Sevinecek!!&center=true&color="aaaa")](https://github.com/Kahperengi)
+<div align="center">
 
 <p align="center">
   <samp>
