@@ -14,11 +14,11 @@ class lenzy {
     constructor(options) {
         this.name = "lenzy",
         this.sex = "man",
-        this.length = "178",
+        this.length = "1.78",
         this.job = "developer",
         this.weight = "68",
         this.age = "17",
-        this.discord.tag = "🜍 Lénzy?#1337"
+        this.discord.tag = "🜍 Leeeeeeeeeeeeeeeeeeeeeeeenzy?#0001"
     };
 }
 module.exports = lenzy
