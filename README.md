@@ -9,7 +9,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?lines=Selam+Lenzy+Seni+Görünce+S
 </p>
 
   
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/896834304930369578?hideDiscrim=true)](https://discord.com/users/896834304930369578)
+ [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/896834304930369578?hideDiscrim=true)](https://discord.com/users/896834304930369578) 
   
 ```js
 class lenzy {
