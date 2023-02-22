@@ -9,10 +9,8 @@ SVG](https://readme-typing-svg.herokuapp.com/?lines=Selam+Lenzy+Seni+Görünce+S
 </p>
 
   
-  <div align="center">
- <a href="https://discord.com/users/896834304930369578" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/896834304930369578?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...4"> 
-</div>
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/896834304930369578?hideDiscrim=true)](https://discord.com/users/896834304930369578)
+  
 ```js
 class lenzy {
     constructor(options) {
