@@ -20,7 +20,7 @@ class lenzy {
         this.job = "developer",
         this.weight = "68",
         this.age = "17",
-        this.discord.tag = "🜍 Leeeeeeeeeeeeeeeeeeeeeeeenzy?#0001"
+        this.discord.tag = "Lénzy#0001"
     };
 }
 module.exports = lenzy
