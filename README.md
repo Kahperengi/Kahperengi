@@ -1,5 +1,5 @@
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?lines=Selam+Lenzy+Seni+Görünce+Sevinecek!!&center=true&color="#00f8ff")](https://github.com/Kahperengi)
+SVG](https://readme-typing-svg.herokuapp.com/?lines=Gir+Starla+Fork+Al+Ve+Yeni+Projeleri+Bekle&center=true&color="#00f8ff")](https://github.com/Kahperengi)
 <div align="center">
 
 <p align="center">
