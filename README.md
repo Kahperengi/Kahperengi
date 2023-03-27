@@ -1,5 +1,5 @@
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?lines=Gahbeler+Diyarına+Hosgeldin+Benim+Mal+Gardesim+&center=true&color="#00f8ff")](https://github.com/Kahperengi)
+SVG](https://readme-typing-svg.herokuapp.com/?lines=+Gahbeler+Diyarına+Hosgeldin+Benim+Mal+Gardesim+&center=true&color="#00f8ff")](https://github.com/Kahperengi)
 <div align="center">
 
 <p align="center">
