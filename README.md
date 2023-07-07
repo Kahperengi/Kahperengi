@@ -12,6 +12,8 @@ SVG](https://readme-typing-svg.herokuapp.com/?lines=+Gahbeler+Diyarına+Hosgeldi
 <div align="center">
  <a href="https://discord.com/users/896834304930369578" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/896834304930369578?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...4"> 
 </div>
+
+![image](https://cdn.discordapp.com/attachments/1103731767741001839/1126916611803197541/haa.jpg)
   
 ```js
 class lenzy {
