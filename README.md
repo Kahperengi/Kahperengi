@@ -24,7 +24,6 @@ class lenzy {
         this.weight = "70",
         this.age = "17",
         this.discord.username = "lwnzy"
-    };
-}
+}}
 module.exports = lenzy
 ```
