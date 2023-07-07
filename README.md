@@ -17,13 +17,13 @@ SVG](https://readme-typing-svg.herokuapp.com/?lines=+Gahbeler+Diyarına+Hosgeldi
 ```js
 class lenzy {
     constructor(options) {
-        this.name = "lenzy",
+        this.name = "Tutku",
         this.sex = "man",
-        this.length = "1.78",
-        this.job = "developer",
-        this.weight = "68",
+        this.length = "1.74",
+        this.job = "Pzvenk",
+        this.weight = "70",
         this.age = "17",
-        this.discord.tag = "Lénzy#0001"
+        this.discord.username = "lwnzy"
     };
 }
 module.exports = lenzy
