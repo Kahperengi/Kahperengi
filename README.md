@@ -16,7 +16,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?lines=+Gahbeler+Diyarına+Hosgeldi
   
 ```js
 class lenzy {
-    constructor(options) {
+constructor(options) {
         this.name = "Tutku",
         this.sex = "man",
         this.length = "1.74",
