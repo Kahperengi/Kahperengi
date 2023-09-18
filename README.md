@@ -10,7 +10,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?lines=+Gahbeler+Diyarına+Hosgeldi
 
   
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/896834304930369578?theme=dark&bg=a900f5&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/896834304930369578) 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/896834304930369578?theme=dark&bg=#020202animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/896834304930369578) 
 
 ![image](https://cdn.discordapp.com/attachments/1103731767741001839/1126916611803197541/haa.jpg)
   
